@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "manualChunker"
+		},
+		{
+			"path": "imageTranscribe"
+		},
+		{
+			"path": "manualEmbedder"
+		},
+		{
+			"path": "manualUploader"
+		}
+	],
+	"settings": {}
+}

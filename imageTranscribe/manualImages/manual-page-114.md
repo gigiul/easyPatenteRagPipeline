@@ -1,0 +1,17 @@
+soggetti a questi provvedimenti. Il fatto di essere responsabili deriva da una nostra violazione non solo del codice penale ma probabilmente anche dei codici della strada; in questo caso, saremo assoggettati anche alle sanzioni previste dal codice della strada (con l'obbligo di pagare l'ammenda, ossia la multa).
+
+**ASSICURAZIONE R.C.A. (RESPONSABILITÀ CIVILE AUTO)**
+
+I veicoli non possono essere posti in circolazione se non hanno una polizza di assicurazione R.C.A. (le polizze per l'incendio ed il furto non sono obbligatorie) che copre i rischi derivanti dalla circolazione dei veicoli a motore inerenti la responsabilità civile che ricade sul conducente e sul proprietario. L'assicurazione R.C.A., quindi, copre i danni arrecati durante l'incidente, con nostra responsabilità, a persone (compresi i trasportati e terze persone, all'infuori del conducente), animali e cose (tranne i danni subiti dal nostro veicolo), nei limiti di una somma massima (massimale) stabilita durante la firma del contratto, anche per sinistri (incidenti) avvenuti nei paesi dell'Europa (CEE). La polizza R.C.A. non copre la responsabilità amministrativa (eventuale multa) e penale.
+
+**MASSIMALI DELLA POLIZZA R.C.A.**
+
+Sono le cifre massima che l'assicurazione si impegna a pagare per qualsiasi incidente da noi causato, al fine di risarcire solamente i danni civili che noi arrechiamo a persone, animali e cose. I massimali non possono mai essere inferiori al minimo stabilito dalla legge, che viene aggiornato periodicamente con provvedimento normativo (attualmente è di Euro 774.685,35), ma possono essere aumentati, a nostra discrezione, pagando la relativa maggiorazione di premio (quota che versiamo all'assicurazione). Se ad esempio il nostro massimale assicurato è di Euro 774.685,35 e a seguito dell'incidente abbiamo causato 1 milione di Euro di danni, l'assicurazione paga fino a Euro 774.685,35; la restante parte (cioè Euro 225.314,65) tornerà a gravare metà sul conducente e metà sul proprietario.
+
+**CONTRATTO CON FORMULA "BONUS-MALUS"**
+
+Il contratto con la formula "bonus-malus" prevede una variazione della somma da pagare all'assicurazione secondo gli incidenti causati: se durante l'anno non se ne provocano, si ha un vantaggio economico (riduzione del premio da versare all'assicurazione il prossimo anno), mentre, in caso di incidenti con nostra responsabilità, sono previsti aumenti del premio da versare all'assicurazione nell'anno successivo. La formula "bonus-malus" garantisce comunque la copertura del sinistro nei limiti dei massimali fissati (Euro 774.685,35), anche se è diminuita la somma da versare all'assicurazione per il bonus ricevuto, e comporta delle classi di assegnazione (da classe 18 a classe 1) che possono variare di anno in anno (a seconda del numero di incidenti commessi).
+
+**DOCUMENTI CHE DEVE RILASCIARE L'IMPRESA ASSICURATRICE:**
+
+Un contrassegno (da esporre sul vetro anteriore del veicolo); la polizza di assicurazione (che non è necessario tenere in macchina in quanto non va esibita agli agenti di polizia); il certificato di assicurazione (da conservare in macchina insieme alla carta di circolazione in quanto va esibito a richiesta degli agenti di polizia). Per i contratti con la formula "bonus-malus", viene inoltre rilasciato, un attestato di validità annuale relativo allo stato di rischio, che riporta l'indicazione della classe di merito relativa all'anno in corso (da classe 18 a classe 1).

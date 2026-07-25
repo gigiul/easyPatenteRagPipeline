@@ -1,0 +1,17 @@
+52
+Valerio Platia e Roberto Mastri
+
+POSSIAMO TROVARE UNA LUCE GIALLA LAMPEGGIANTE
+Come segnale di pericolo generico che ci invita a procedere con particolare prudenza e, in punti pericolosi della strada, per invitare a moderare la velocità. Nei semafori veicolari troviamo una luce gialla lampeggiante, quando il verde ed il rosso sono spenti, per prescrivere di usare prudenza e diminuire la velocità.
+
+LANTERNE SEMAFORICHE GIALLE LAMPEGGIANTI
+Il tipo A, che si trova quando il semaforo è spento o guasto, prescrive di usare prudenza, diminuire la velocità e dare precedenza ai veicoli di destra; i tipi B e C, sono affiancati ad un semaforo veicolare normale (fig. 154), per ricordare ai veicoli che vogliono svoltare di dover prima dare la precedenza rispettivamente ai pedoni (tipo B) o ai ciclisti (tipo C). È sbagliato dire che sono dei dispositivi a luce fissa (in quanto le luci sono gialle lampeggianti) o che indicano una pista pedonale (il tipo B) e ciclabile (il tipo C).
+
+INCONTRANDO IL SEMAFORO A TRE LUCI È CONSENTITO IL PASSAGGIO:
+Quando il semaforo è guasto, usando però la massima prudenza e moderando la velocità; quando è acceso il giallo lampeggiante come segnalazione di pericolo (ad esempio: nelle ore in cui il semaforo è spento); quando è acceso il segnale a luce verde, oppure quando si accende il giallo fisso (significa che sta per accendersi la luce rossa) e non ci si può fermare in condizioni di sicurezza prima dell'incrocio. È sbagliato dire che è consentito il passaggio, poco prima che si accenda il verde, oppure, pur essendo accesa la luce rossa, quando non vengono veicoli dalla direzione consentita, quando si accende il segnale a luce rossa per tutte le direzioni o quando si impegnà ugualmente l'incrocio, usando la massima prudenza.
+
+SEMAFORI VEICOLARI DI CORSIA
+Sono lanterne (semafori) veicolari di corsia riguardanti i veicoli che devono proseguire nella direzione della freccia. Pertanto, quando si accende la freccia verde, non si può proseguire per tutte le direzioni, ma solamente nel senso indicato dalla freccia; quando si accende la freccia gialla fissa bisogna sgomberare immediatamente l'incrocio se lo si è già impegnato; quando si accende la freccia rossa bisogna che i veicoli diretti nel senso della freccia si arrestino; quando il semaforo è spento (funziona a freccia gialla lampeggiante) si può transitare con particolare prudenza. Non si trovano nei passaggi a livello, nei ponti mobili o sui pontili d'imbarco delle navi traghetto. È sbagliato dire che sono segnali di indicazione, che valgono solo per i veicoli di trasporto pubblico, per quelli circolanti su rotaie o per i velocipedi (biciclette).
+
+LANTERNE SEMAFORICHE PER CORSIE REVERSIBILI
+Vengono poste nei caselli autostradali (su carreggiate a doppio senso di circolazione con tre o più corsie) e vietano di percorrere la corsia sottostante la luce rossa a forma di X, bisogna invece occupare la corsia indicata dalla freccia verde; mentre chi si trova nella corsia con freccia gialla lampeggiante, deve abbandonare quella corsia perché a breve viene chiusa (diventa X a luce rossa) e spostarsi, quanto prima, nella corsia con freccia verde. È sbagliato dire che la corsia con luce rossa accesa impone di fermarsi ed attendere il segnale di via libera (quella corsia non si può assolutamente occupare). Da notare che la luce rossa non è a freccia (ma a forma di X), mentre la luce verde non è a forma di X (ma a freccia) e non è lampeggiante.

@@ -1,0 +1,14 @@
+Manuale di teoria per le patenti A1 A e B
+43
+Lezione 8. Segnali Complementari
+I segnali complementari comprendono barriere e coni, utilizzati per lo più in caso di lavori stradali, e i cosiddetti delineatori che evidenziano immagini della carreggiata, la presenza di curve, ostacoli, ecc.
+BARRIERE NORMALI
+Segnalano i limiti (bordi o confini) dei cantieri di lavoro in corso, delimitando frontalmente l'area di un cantiere stradale. Possono anche sostituire nei passaggi a livello le barriere mobili quando queste sono in avaria (guaste). Invitano i conducenti ad essere particolarmente prudenti, arrestandosi ove ricorra il caso. È sbagliato dire che vietano la sosta lungo i margini della strada dove sono poste.
+CONO
+Viene posto in presenza di lavori di breve durata, quando si verifica un incidente, per delimitare incanalamenti, deviazioni o separazione provvisoria dei sensi di marcia (ad esempio: quando vengono rifatte le strisce a terra). È sbagliato dire che si trova solo su strade extraurbane, in curva o che indica ostacoli permanenti sulla carreggiata.
+DELINEATORI NORMALI DI MARGINE PER STRADE A DOPPIO SENSO
+Sono segnali complementari utilizzati come indicatori normali di margine nelle strade a doppio senso. Posti al limite esterno della banchina o ai margini della carreggiata, servono a visualizzare a distanza l'andamento del tracciato stradale. In presenza di muri, ringhiere o altri impedimenti, possono essere sostituiti da elementi rifrangenti aventi le stesse caratteristiche, fissati ai manufatti. È sbagliato dire che si trovano al centro della carreggiata o che vengono usati per delimitare le corsie (servono invece a evidenziare i margini o bordi della carreggiata).
+DELINEATORI NORMALI DI MARGINE PER STRADE A SENSO UNICO
+Sono segnali complementari utilizzati come indicatori normali di margine nelle strade a senso unico. Posti al limite esterno della banchina o ai margini della carreggiata, servono a visualizzare a distanza l'andamento del tracciato stradale. In presenza di muri, ringhiere o altri impedimenti, possono essere sostituiti da elementi rifrangenti aventi le stesse caratteristiche, fissati ai manufatti. È sbagliato dire che si trovano al centro della carreggiata o che vengono usati per delimitare le corsie (servono invece a evidenziare i margini o bordi della carreggiata).
+DELINEATORI PER GALLERIE A SENSO UNICO
+Sono segnali complementari posti all'ingresso delle gallerie a senso unico ed utilizzati come indicatori di margine, obbligatori nelle gallerie non rettilinee (con curve). Si possono trovare anche in presenza di strettoie o deviazioni permanenti della carreggiata. È sbagliato dire che si trovano al centro della carreggiata, negli incroci a forma di "T", nelle strade di montagna con tornanti (curve pericolose) o che vengono usati nelle gallerie per delimitare le corsie (servono invece nelle gallerie a evidenziare i margini o bordi della carreggiata).

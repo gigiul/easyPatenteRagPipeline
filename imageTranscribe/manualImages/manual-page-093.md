@@ -1,0 +1,8 @@
+90
+Valerio Platia e Roberto Mastri
+
+MANUTENZIONE DELL'IMPIANTO DI ILLUMINAZIONE
+Per mantenere l'impianto di illuminazione e di segnalazione visiva sempre efficiente deve essere eseguito con frequenza: l'accertamento dell'accensione e del corretto funzionamento di tutte le luci; il controllo del funzionamento dei dispositivi di illuminazione e di segnalazione (luci e frecce), sostituendoli quando le superfici riflettenti interne siano deteriorate (arrugginite o scolorite); il controllo dell'orientamento dei fari (per evitare l'abbagliamento in fase di incrocio con un veicolo); il controllo della pulizia e della colorazione dei trasparenti di vetro e di plastica (catadiottri); il controllo dell'efficienza e del funzionamento di tutte le luci.
+
+DISPOSITIVI DI SEGNALEAZIONE ACUSTICA (CLACSON, TROMBE)
+Debbono usarsi con la massima moderazione e solo ai fini della sicurezza stradale (non per protestare contro qualcuno o per salutarlo). Si possono usare fuori città ogni qual volta le circostanze, sempre ricollegate alla sicurezza stradale, lo rendano consigliabile al fine di evitare incidenti (ad esempio: eseguendo una manovra di sorpasso; in una curva, incrocio o dosso per segnalare l'avvicinarsi del nostro veicolo). Nei centri abitati invece è generalmente vietato, tranne in caso di immediato ed effettivo pericolo (ad esempio: attraversamento improvviso di un pedone, manovra imprevista e pericolosa di un altro conducente) o se si trasportano feriti o ammalati gravi. È inoltre vietato: in presenza dell'apposito segnale (fig. 59); in prossimità di ospedali; se non c'è pericolo immediato.

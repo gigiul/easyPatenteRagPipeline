@@ -1,0 +1,17 @@
+66
+Valerio Platia e Roberto Mastri
+
+LA SVOLTA A DESTRA SI EFFETTUA:
+Regolando la velocità all'approssimarsi dell'incrocio, assicurandosi di non creare pericolo o intralcio agli altri utenti della strada; presegnalando per tempo la manovra; tenendosi il più vicino possibile al margine destro della carreggiata e preincanalandosi nelle corsie che consentono la manovra; lasciando alla propria sinistra il centro dell'incrocio e dando la precedenza ai pedoni che attraversano la strada in cui ci si immette. È sbagliato dire che per effettuare la svolta a destra bisogna tenersi sulla corsia di sinistra; portarsi in prossimità del centro dell'incrocio; preincolanarsi in qualsiasi corsia se è ammessa la marca per file parallele o girare attorno alla colonna luminosa eventualmente posta al centro dell'incrocio.
+
+SVOLTA A SINISTRA
+Dopo aver controllato dallo specchio retrovisore che nessun veicolo che segue abbia iniziato il sorpasso, si aziona l'indicatore di direzione, spostandosi verso l'asse (il centro) della carreggiata su strada a doppio senso, oppure ci si avvicina il più possibile al margine sinistro se la strada è a senso unico, quindi ci si sposta in prossimità del centro dell'incrocio (per evitare di imboccare contro mano la nuova strada) e si svolta, dando la precedenza ai veicoli che provengono da destra, di fronte e ai pedoni. Se c'è il segnale "Rotatoria" (fig. 104) si occupa l'area di destra, lasciando a sinistra il centro dell'incrocio; altrimenti, si occupa l'area di sinistra, lasciando a destra il centro dell'incrocio.
+
+IN PROSSIMITÀ O IN CORRISPONDENZA DEGLI INCROCI È VIETATO:
+Procedere a zig zag (modificare improvvisamente la direzione di marcia); sorpassare se l'incrocio non è regolato da vigile o da semaforo; sorpassare una bicicletta se per farlo si invade la corsia opposta di marcia; effettuare l'inversione di marcia; fermarsi o sostare. È sbagliato dire che è vietato rallentare; azionare i dispositivi di segnalazione acustica (clacson o trombe), anche fuori dei centri abitati; superare sempre la velocità di 60 km/h; comunque il sorpasso; usare i fari anabbaglianti o azionare l'indicatore di direzione.
+
+GIUNGENDO IN PROSSIMITÀ DI UN INCROCIO SI DEVE:
+Moderare la velocità; azionare l'indicatore di direzione; incolanarsi nella corsia destinata alla direzione da prendere; non impegnare l'incrocio se non si ha la possibilità di sgombrarlo. È sbagliato dire che giungendo in prossimità di un incrocio si deve dare sempre la precedenza a chi proviene da destra; prestare attenzione solo ai veicoli provenienti da destra (occorre prestare attenzione a tutti i veicoli); procedere in ogni caso molto lentamente (ad esempio: se c'è il semaforo a luce gialla fissa e abbiamo già superato la linea d'arresto, ci dobbiamo invece affrettare ad attraversare); suonare, nei centri abitati, ogni qualvolta le circostanze lo rendano consigliabile o, a semaforo verde, accelerare e sgombrare velocemente senza guardare a destra e a sinistra.
+
+CONVOGLI MILITARI E CORTEI
+È vietato interrompere cortei, convogli militari (cortei di veicoli), processioni, colonne di scolari, ma occorre attendere la fine del loro passaggio, fermandosi sulla destra ed aspettando che la carreggiata si liberi, evitando nel frattempo di suonare. Se c'è una strada laterale è opportuno imboccarla, purché la manovra possa essere fatta in maniera corretta, mentre va evitato di retrocedere o di fare conversioni ad U, soprattutto se ciò costituisce intralcio alla circolazione.

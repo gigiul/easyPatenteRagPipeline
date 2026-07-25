@@ -1,0 +1,16 @@
+Manuale di teoria per le patenti A1 A e B
+27
+FINE DEL PERCORSO PEDONALE E CICLABILE
+Indica la fine di un percorso pedonale e ciclabile, cioè la fine di una pista, un itinerario, un viale, un'area, una corsia riservati alla circolazione promiscua (insieme) di pedoni e di biciclette. È consentito il transito ai pedoni e ai velocipedi (biciclette) anche dopo il segnale. È sbagliato dire che il segnale indica la fine di un viale pedonale a fianco e parallelo ad un percorso per ciclisti.
+PERCORSO RISERVATO AI QUADRUPEDEI DA SOMA E DA SELLA
+Indica un percorso o passaggio riservato solo ai quadrupedi da soma e da sella, cioè ai cavalli o ad altri quadrupedi montati. Vieta il transito a tutti i veicoli (comprese le biciclette e i veicoli a trazione animale). È sbagliato dire che il segnale indica la prossimità di un maneggio (luogo in cui si addestrano cavalli), la presenza di animali vaganti (figg. 26, 27) o il pericolo di probabile attraversamento di cavalli.
+FINE DEL PERCORSO RISERVATO AI QUADRUPEDEI DA SOMA E DA SELLA
+Indica la fine di un percorso o passaggio riservato ai quadrupedi da soma e da sella, cioè ai cavalli o ad altri quadrupedi montati. Anche se il segnale indica la fine di una prescrizione, non vieta il transito ai cavalli; infatti, dopo il segnale, possono continuare a transitare i quadrupedi, insieme a tutti gli altri utenti della strada (veicoli, animali e pedoni). È sbagliato dire che il segnale indica la prossimità di un maneggio (luogo in cui si addestrano cavalli), o la fine del pericolo di attraversamento di cavalli.
+ALT-DOGANA
+Segnala un varco doganale presso la frontiera con un paese extracomunitario, cioè non facente parte della comunità europea (CEE). Obbliga a fermarsi per il controllo doganale da parte degli agenti di dogana (anche se non si hanno oggetti o merci da dichiarare). È sbagliato dire che il segnale indica la presenza di un commissariato di polizia di frontiera.
+CONFINE DI STATO TRA PAESI DELLA COMUNITÀ EUROPEA
+Indica un valico di confine tra l'Italia ed uno Stato membro della CEE (Paese aderente alla Comunità Economica Europea); non obbliga ad arrestarsi per il controllo doganale al confine di Stato. È sbagliato dire che il segnale viene posto sulla parte posteriore del veicolo, per indicare che il veicolo appartiene ad uno Stato della comunità europea.
+PREAVVISO DI CONFINE DI STATO TRA PAESI DELLA COMUNITÀ EUROPEA
+Presegna il confine di Stato con Paese aderente alla Comunità Economica Europea (CEE) ed è quindi posto su strada o autostrada che conduce a tale confine; non obbliga ad arrestarsi per il controllo doganale; sostituisce il segnale di preavviso di "Alt-Dogana", in quanto lo Stato confinante è uno Stato membro della CEE. È sbagliato dire che il segnale viene posto sulla parte posteriore del veicolo, per indicare che il veicolo appartiene ad uno Stato della comunità europea.
+ALT-POLIZIA
+È un segnale mobile che viene posizionato nella vicinanza di un posto di blocco istituito da organi di polizia e ripetuto nel punto di arresto. Bisogna obbligatoriamente fermarsi anche se non viene mostrata la "paletta" (quindi non solo in caso di segnalazione da parte degli agenti). È sbagliato dire che bisogna dare la precedenza ai mezzi della polizia oppure che bisogna fermarsi al confine di Stato, al varco doganale o alla stazione autostradale.

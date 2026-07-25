@@ -1,0 +1,8 @@
+Manuale di teoria per le patenti A1 A e B
+83
+Lezione 17. Ingombro della carreggiata, Segnalazione di veicolo fermo
+L'ingombro della carreggiata può essere provocato dalla presenza di veicoli fermi per guasto o incidente, oppure dalla caduta del carico trasportato. Dal momento che si tratta di una situazione pericolosa per la circolazione, va segnalata, fuori dai centri abitati, con l'impiego dell'apposito segnale mobile di pericolo (il "triangolo").
+INGOMBRO DELLA CARREGGIATA
+Nel caso di ingombro per caduta accidentale del carico, il conducente deve rendere sollecitamente libero, per quanto possibile, il passaggio, rimuovendo tempestivamente il carico e adottando le cautele necessarie a rendere sicura la circolazione. Fuori dai centri abitati il conducente deve presegnalare l'ostacolo mediante il segnale di veicolo fermo (triangolo).
+SEGNale MOBILE TRIANGOLARE DI PERICOLO
+Va utilizzato obbligatoriamente, da tutti gli autoveicoli, solo fuori dai centri abitati, per segnalare veicoli che debbano restare fermi sulla carreggiata ed ogni carico caduto che non possa essere spostato subito. Occorre farne uso: di notte, quando siano inefficenti le luci di posizione posteriori o di emergenza; per caduta di sostanze pericolose su strada extraurbana; se il veicolo fermo o il carico caduto (in curva o dosso) non siano visibili ad almeno 100 metri. Il triangolo deve essere posto: ad almeno 50 metri dal veicolo fermo o dall'ostacolo, in modo che sia visibile ad una distanza di almeno 100 m. da chi sopraggiunge; sulla corsia occupata dal carico o dal veicolo ad almeno un metro dal bordo esterno della carreggiata; con apposito sostegno (in modo che non cada).

@@ -1,0 +1,17 @@
+78
+Valerio Platia e Roberto Mastri
+
+QUANDO SI VIENE SORPASSATI BISOGNA:
+Tenersi il più possibile vicino al margine destro della strada e facilitare la manovra di sorpasso, non accelerando e non gareggiando in velocità con il veicolo sorpassante. Se si guida un veicolo molto lento fermarsi appena possibile per far defluire il traffico che si è accumulato dietro. È sbagliato dire che si deve: accelerare per permettere al veicolo sorpassante di prendere la scia per aumentare la velocità; ridurre sempre la propria velocità; azionare l'indicatore di direzione destro o i lampeggianti di emergenza (le 4 frecce) per segnalare che la strada è sgombra; che occorre portarsi al centro della carreggiata per evitare sorpassi in scia (in coda) o procedere in prima o in seconda marcia per facilitare il sorpasso.
+
+IN CASO DI SORPASSO DI NOTTE SU STRADA A DOPPIO SENSO:
+Valutare se lo spazio libero sia sufficiente ad effettuare correttamente la manovra; accertare che la differenza di velocità tra il nostro veicolo e quella del veicolo da superare sia sufficiente; accertare, dal retrovisore, che nessun veicolo che segue abbia iniziato la manovra di sorpasso; effettuare la manovra con particolare attenzione, data la limitata visibilità notturna. È sbagliato dire che bisogna: effettuare la manovra anche con scarsa visibilità purché la larghezza della strada lo consenta; accendere in ogni caso anche i proiettori fendinebbia; sorpassare sulla scia (dietro) di un veicolo che limita la visibilità; rinunciare a sorpassare se il veicolo che precede non ha l'impianto di illuminazione efficiente.
+
+IL SORPASSO È VIETATO:
+Quando ci sia l'apposito segnale; quando non si dispone di uno spazio libero sufficiente; nelle curve e nel tratto ascendente (in salita) del dosso, solo se la strada è a doppio senso e a due sole corsie; nelle strettoie; nei passaggi a livello senza barriere; quando il veicolo che segue o quello che precede abbia già iniziato la manovra di sorpasso; di un veicolo che si sia fermato per consentire ai pedoni (o ad altri veicoli) di attraversare la strada; nelle corsie di accelerazione e di decelerazione; negli incroci non regolati da semaforo o vigile; quando si deve superare la linea continua o la doppia linea continua; a destra di un tram fermo se non c'è il salvagente; negli incroci regolati e nei passaggi a livello con barriere se bisogna invadere l'opposto senso di marcia.
+
+IL SORPASSO A DESTRA È CONSENTITO:
+Quando il conducente da sorpassare ha segnalato che intende svoltare a sinistra o arrestarsi a sinistra su una carreggiata a senso unico; quando si sorpassa un tram che marca al centro della strada oppure è fermo (per far salire e scendere i passeggeri) e ci sia il salvagente. È sbagliato dire che si può sorpassare a destra quando si percorre una strada extraurbana a senso unico o a traffico molto lento; quando la manovra avviene nei confronti dei motocicli e ci sia spazio sufficiente; quando il flusso della circolazione è lento, se non si supera la striscia bianca di margine o quando il tram è fermo e non esiste il salvagente.
+
+IL SORPASSO IN PROSSIMITÀ DI UN INCROCIO È CONSENTITO:
+Se l'incrocio è regolato da segnalazione semaforica o da agenti preposti al traffico o se avviene nei confronti di veicoli a due ruote non a motore (biciclette, carretti), senza invadere l'opposto senso di marcia. È sbagliato dire che in prossimità di un incrocio il sorpasso è consentito se il veicolo che si sorpassa è un motociclo o nell'attraversamento di passaggi a livello senza barriere o di piste ciclabili.

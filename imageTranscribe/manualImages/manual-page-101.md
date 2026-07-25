@@ -1,0 +1,17 @@
+98
+Valerio Platia e Roberto Mastri
+
+PANNELLI ARANCIORI PER TRASPORTO MERCI PERICOLOSE
+Segnalano veicoli adibiti al trasporto di merci pericolose; devono essere fissati davanti e dietro al veicolo; sono integrati con due serie di numeri indicanti il tipo di pericolo (se esplosivo, inquinante, ecc.) e la materia trasportata (se benzina, gasolio, ecc.). Nel caso in cui il veicolo trasporta più di una merce pericolosa i pannelli vengono applicati anche lateralmente per indicare, ciascuno, le singole materie pericolose trasportate. È sbagliato dire che si applicano ai veicoli di lunghezza superiore a 7 metri, a quelli di massa complessiva oltre 3,5 t., ai veicoli che trasportano carichi sporgenti pericolosi o a quelli adibiti al trasporto internazionale su strada di merci (T.I.R.).
+
+PANNELLI POSTERIORI PER AUTOVEICOLI ADIBITI AL TRASPORTO DI COSE DI MASSA A PIENO CARICO OLTRE 3,5 T.
+Devono essere applicati posteriormente (dietro) a tutti gli autoveicoli per trasporto di cose (autocarri) che superano a pieno carico 3,5 t.; sono retroriflettenti e fluorescenti per facilitare, da parte dei conducenti che seguono, l'individuazione e migliorare la visibilità notturna degli autoveicoli cui sono applicati. È sbagliato dire che si applicano a tutti gli autocarri (devono invece superare la massa di 3,5 t.), che delimitano l'ingombro laterale degli autocarri, che servono per la segnalazione posteriore di carichi sporgenti o che individuano i veicoli classificati eccezionali (cioè i veicoli che superano 18,75 metri di lunghezza).
+
+PANNELLI POSTERIORI PER RIMORCHI E SEMIRIMORCHI ADIBITI AL TRASPORTO COSE DI MASSA A PIENO CARICO OLTRE 3,5 T.
+Devono essere applicati dietro a tutti i rimorchi o semirimorchi per trasporto di cose che superano a pieno carico 3,5 t.; sono retroriflettenti e fluorescenti per facilitare, da parte dei conducenti che seguono, l'individuazione e migliorare la visibilità notturna dei veicoli cui sono applicati. È opportuno ricordare che non vi è distinzione tra rimorchio e semirimorchio in quanto il pannello che si applica è lo stesso. È sbagliato dire che si debbono applicare a tutti i rimorchi e semirimorchi per trasporto di cose (devono invece superare la massa di 3,5 t.), alle macchine operatrici che lavorano in condizioni di scarsa visibilità e agli autobus di massa totale superiore a 3,5 t.
+
+SEGNALI DI VELOCITÀ DA APPLICARE SUI VEICOLI
+Debbono essere applicati sulla parte posteriore di taluni (alcuni) veicoli e ne indicano le velocità massime consentite (rispettivamente su autostrade e su strade extraurbane principali); possono essere al massimo due sullo stesso veicolo; vanno applicati a tutti i veicoli di massa superiore a 3,5 t. e ai quadricicli a motore non leggeri (in quanto questi veicoli non rispettano i limiti di velocità generali, ma hanno dei limiti specifici). È sbagliato dire che vanno applicati sui motocicli, sugli autocarri ed autocaravan di massa complessiva fino a 3,5 t.
+
+PANNELLO APPLICATO SUI VEICOLI OPERATRICI
+È installato sui veicoli per lavori stradali fermi o in lento movimento, sui macchinari per la manutenzione stradale (ad esempio, i veicoli dell'ANAS) in sosta sulla carreggiata o che per il tipo di carico procedono a velocità particolarmente ridotta. Indica il lato dal quale il veicolo su cui è applicato deve essere sorpassato. È sbagliato dire che il pannello indica l'obbligo di svoltare a destra (fig. 95; la svolta presuppone la presenza di un incrocio ove occorre abbandonare la strada di provenienza), bisogna invece superare l'ostacolo spostandosi sulla destra.

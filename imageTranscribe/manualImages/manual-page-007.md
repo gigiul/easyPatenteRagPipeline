@@ -1,0 +1,18 @@
+4
+Valerio Platia e Roberto Mastri
+dica una forte variazione di pendenza della strada.
+
+DOSSO
+Indica una strada in salita seguita da una discesa (variazione di pendenza della strada) dove manca la visibilità, pertanto sono vietati: il sorpasso sul tratto in salita, la sosta, l'inversione di marcia e la retromarcia. Se la strada è a senso unico oppure a doppio senso con 4 corsie (2 per ogni senso di marcia) il sorpasso si può effettuare anche sul tratto in salita. Come comportamento bisogna diminuire la velocità e spostarsi il più possibile al margine destro della carreggiata se la strada è a doppio senso con 2 sole corsie. Il segnale non indica una strada deformatà, in cattivo stato o con pavimentazione irregolare.
+
+CUNETTA
+Indica una strada in discesa seguita da una salita, dove la visibilità è presente (infatti si vede se viene un veicolo di fronte), pertanto il sorpasso è consentito, con moderazione, anche su strade a doppio senso con 2 sole corsie. Il pericolo è anche dovuto alla presenza di acqua che si può accumulare in caso di pioggia (pericolo di aquaplaning). Occorre: moderare la velocità per evitare eccessive sollecitazioni e danni alle sospensioni (ammortizzatori) e per non perdere il controllo del veicolo; tenere il volante con una presa più sicura; considerare maggiori possibilità di sbandamento per i veicoli con rimorchio. Il segnale non indica una strada deformata, in cattivo stato o con pavimentazione irregolare.
+
+CURVA A DESTRA
+Essendo un tratto di strada non rettilineo, dove solitamente manca la visibilità, sono vietati: il sorpasso, la sosta, l'inversione di marcia e la retromarcia. Se la curva si trova in una strada a senso unico oppure a doppio senso con 4 corsie (2 per ogni senso di marcia) il sorpasso si può effettuare. Come comportamento bisogna diminuire la velocità (in relazione alla visibilità, al raggio della curva e allo stato dei pneumatici) e spostarsi il più possibile al margine destro della carreggiata se la strada è a doppio senso con 2 sole corsie. Il segnale può essere integrato con un pannello recante la scritta "Tornante" (fig. 143/A). È sbagliato dire che la curva è una deviazione (infatti la deviazione presuppone la presenza di un incrocio con cambiamento di direzione).
+
+CURVA A SINISTRA
+Essendo un tratto di strada non rettilineo, dove solitamente manca la visibilità, sono vietati: il sorpasso, la sosta, l'inversione di marcia e la retromarcia. Se la curva si trova in una strada a senso unico oppure a doppio senso con 4 corsie (2 per ogni senso di marcia) il sorpasso si può effettuare. Come comportamento bisogna diminuire la velocità (in relazione alla visibilità, al raggio della curva e allo stato dei pneumatici) e spostarsi il più possibile al margine destro della carreggiata se la strada è a doppio senso con 2 sole corsie. Il segnale può essere integrato con un pannello recante la scritta "Tornante" (fig. 143/A). È sbagliato dire che la curva è una deviazione (infatti la deviazione presuppone la presenza di un incrocio) o un ostacolo da aggirare.
+
+DOPPIA CURVA, LA PRIMA A DESTRA
+Essendo un tratto di strada dove solitamente manca la visibilità sono vietati: il sorpasso, la sosta, l'inversione di marcia e la retromarcia. Se la curva si trova in una strada a senso unico oppure a doppio senso con 4 corsie (2 per ogni senso di marcia) il sorpasso si può effettuare. Come comportamento bisogna diminuire la velocità (in relazione alla visibilità, al raggio della curva e al carico del veicolo) e spostarsi il più possibile al margine destro della carreggiata se la strada è a doppio senso con 2 sole corsie.

@@ -1,0 +1,14 @@
+Manuale di teoria per le patenti A1 A e B
+97
+Lezione 22. Trasporto di Persone, Carico dei Veicoli, Pannelli sui veicoli, Traino dei veicoli in avaria
+Questa lezione parla anzitutto del carico dei veicoli, sia nel senso del numero di persone che possono essere trasportate, sia nel senso di cose inanimate, che devono essere sistemate in modo da evitarne la caduta e lo spostamento e con rispetto delle norme relative alle dimensioni e alla portata.
+Il discorso sul carico conduce alla trattazione dei pannelli che devono essere applicati in caso di carichi sporgenti, di trasporto di merci pericolose e su veicoli di massa superiore a 3,5 tonnellate. In questo contesto si esamineranno anche gli altri tipi di segnali o pannelli che possono (o devono) essere applicati ai veicoli.
+Al termine si farà cenno alle modalità con cui deve avvenire il traino di un veicolo da parte di un altro.
+TRASPORTO DI PERSONE
+Il numero delle persone trasportabili (indicato sulla carta di circolazione) sulle autovetture può raggiungere il massimo di nove compreso il conducente; sugli autocarri (sul sedile anteriore) è al massimo di tre compreso il conducente; sui motocicli è al massimo di due compreso il conducente.
+IL CARICO DEVE ESSERE SISTEMATO SUL VEICOLO IN MODO DA:
+Evitare la caduta del carico stesso; non diminuire la visibilità del conducente e non impedire la libertà di movimenti nella guida; non superare la portata risultante dalla carta di circolazione; sporgere posteriormente solo se necessario in relazione alle dimensioni del veicolo e comunque per non più dei tre decimi (30 %) della lunghezza del veicolo; la sporgenza posteriore deve essere segnalata con un pannello retroriflettente a strisce bianche e rosse (fig. 302).
+SPOSTAMENTO DEL CARICO IN AVANTI
+È importante fissare il carico ben saldamente anche perché, oltre al rischio di caduta, c'è la possibilità di spostamento in avanti; in tal caso, l'avanzamento del carico, comporterebbe un diverso assetto del veicolo con una conseguente maggiore sollecitazione degli organi sterzanti e dei freni anteriori e con un maggior consumo dei pneumatici anteriori.
+PANNELLO PER CARICHI SPORGENTI
+Deve essere posto all'estremità di ogni carico sporgente posteriormente, segnala carichi indivisibili (quali: pali, travi) che sporgono dalla parte posteriore del veicolo e richiama l'attenzione dei conducenti che seguono invitandoli a procedere con particolare prudenza. Deve essere applicato in ogni caso in cui il carico sporge posteriormente (quindi anche se sporge di poco); il pannello, costruito con materiale retroriflettente, deve essere fissato all'estremità posteriore del carico, in modo da risultare costantemente perpendicolare all'asse (al centro) del veicolo ed essere sempre visibile; se la sporgenza interessa l'intera larghezza del veicolo, i pannelli devono essere 2, ciascuno situato dietro ad ogni estremità del carico. Può essere posto sui veicoli guasti quando vengono trainati.

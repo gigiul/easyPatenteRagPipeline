@@ -1,0 +1,15 @@
+Manuale di teoria per le patenti A1 A e B
+105
+Lezione 25. Cause più frequenti di incidenti stradali, Corretto uso della strada
+Argomento della lezione sono anzitutto le cause che favoriscono il verificarsi di incidenti e i comportamenti che possono aiutare a scongiurarli. Dal momento che molte insidie per il guidatore derivano dall'effetto che gli agenti meteorologici hanno sulle condizioni della strada, è opportuno sapere come comportarsi in caso di pioggia, neve, ghiaccio, nebbia e vento.
+La seconda parte delle lezione riguarda i comportamenti relativi ad un uso corretto della strada.
+CAUSE PRINCIPALI DI INCIDENTI POSSONO ESSERE:
+Presenza di pietrisco sulla carreggiata o macchie di olio sull'asfalto; inizio di pioggia su fondo asciutto e polveroso; strada coperta di foglie o presenza di fanghiglia; fondo ghiacciato; ristrettezza della strada (strettoia); fondo asfaltato scivoloso o deformato; mancata segnalazione degli incroci o mancanza di segnaletica orizzontale (le strisce); presenza di strettoie non segnalate.
+PER EVITARE IL PRODURSI DI INCIDENTI BISOGNA CONTROLLARE:
+L'efficienza del freno di servizio (freno a pedale); la convergenza e l'equilibratura delle ruote; lo spessore del battistrada dei pneumatici; il corretto funzionamento degli organi di direzione (sterzo); l'efficienza dei dispositivi di segnalazione e di illuminazione (clacson, luci, indicatori di direzione); il funzionamento del tergicristallo.
+PER EVITARE IL PRODURSI DI INCIDENTI BISOGNA:
+Mantenere libero il campo di visibilità del conducente (parabrezza, lunotto e vetri laterali); assicurarsi della pulizia ed efficienza degli specchi retrovisori interni ed esterni; non applicare decalcomanie (adesivi), ciondoli od altro al parabrezza, per non ridurre la visibilità; assicurare la trasparenza e la pulizia delle superfici vetrate anche laterali; verificare periodicamente le spazzole tergicristallo, sostituendole se non sono in buono stato e rifornire periodicamente di liquido detergente (anche semplice acqua) il serbatoio dei dispositivi lavacristallo.
+IN CASO DI MAL TEMPO PRIMA DI PARTIRE BISOGNA:
+Pulire bene il parabrezza e i vetri che interessano la visibilità del conducente; togliere la neve accumulatasi sul parabrezza (vetro anteriore), sui finestrini e sul lunotto (vetro posteriore); assicurarsi che i tergicristalli, lo sbrinatore e i getti d'acqua lavavetro siano efficienti; controllare che le luci del veicolo funzionino tutte; montare le catene o i pneumatici da neve solo quando si è raggiunta la strada innevata.
+CONDIZIONI AVVERSE DEL TEMPO
+Per adattarsi alle condizioni avverse del tempo e prevenire incidenti stradali, occorre: moderare la velocità adattandola alle condizioni atmosferiche per essere sempre in grado di fermarsi entro lo spazio visibile; aumentare la distanza di sicurezza dal veicolo che precede; tenere accese le luci di posizione e anabbaglianti in ogni caso di scarsa visibilità; accendere la luce posteriore per nebbia se la visibilità è inferiore a 50 metri; in caso di nebbia o pioggia molto fitte, fermarsi in area sicura.
