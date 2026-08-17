@@ -10,7 +10,7 @@ import urllib.request
 from pathlib import Path
 
 SUPABASE_URL = os.environ.get("SUPABASE_URL", "https://mvkxafzywzuohnbqjqmo.supabase.co")
-SUPABASE_KEY = os.environ.get("SUPABASE_KEY", "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Im12a3hhZnp5d3p1b2huYnFqcW1vIiwicm9sZSI6InNlcnZpY2Vfcm9sZSIsImlhdCI6MTc3MzU4ODgzMiwiZXhwIjoyMDg5MTY0ODMyfQ.Cz8AncuuZnSKdec5COxhNHGaNm5KR_Hh8aGRU261RiA")
+SUPABASE_KEY = os.environ.get("SUPABASE_KEY", "")
 LLM_ENDPOINT = os.environ.get("LLM_ENDPOINT", "http://localhost:1234")
 EMBEDDING_MODEL = os.environ.get("EMBEDDING_MODEL", "text-embedding-embeddinggemma-300m")
 CHUNKS_PATH = Path(__file__).parent.parent / "manualChunker" / "output" / "manual_chunks.json"

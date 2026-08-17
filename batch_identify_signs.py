@@ -21,7 +21,7 @@ import urllib.error
 
 # ── Config ──
 SUPABASE_URL = os.environ.get("SUPABASE_URL", "https://mvkxafzywzuohnbqjqmo.supabase.co")
-SUPABASE_KEY = os.environ.get("SUPABASE_KEY", "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Im12a3hhZnp5d3p1b2huYnFqcW1vIiwicm9sZSI6InNlcnZpY2Vfcm9sZSIsImlhdCI6MTc3MzU4ODgzMiwiZXhwIjoyMDg5MTY0ODMyfQ.Cz8AncuuZnSKdec5COxhNHGaNm5KR_Hh8aGRU261RiA")  # service role key
+SUPABASE_KEY = os.environ.get("SUPABASE_KEY", "")  # service role key
 LLM_ENDPOINT = os.environ.get("LLM_ENDPOINT", "http://localhost:1234")
 LLM_MODEL = os.environ.get("LLM_MODEL", "qwythos-9b-claude-mythos-5-1m")
 SIGN_LIST_PATH = os.path.join(os.path.dirname(__file__), "..", "signs.json")
